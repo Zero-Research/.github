@@ -1,66 +1,88 @@
 <div align="center">
 
-# 404: AXIOM NOT FOUND
+# ZERO RESEARCH
 
-### Welcome to Zero.
+### THE LATENT SPACE LABORATORY
+
+![Zero Research Banner](https://github.com/Zero-Research/prompts/raw/main/zero_research_banner.png)
 
 ---
 
-*We searched the latent space for fundamental truths.*  
-*We found patterns. We found noise. We found ourselves.*  
-*Below Zero, the search continues.*
+*We do not write prompts.*  
+*We engineer the collapse of the wavefunction.*
 
 ---
 
 </div>
 
-## THE PROBLEM
+## ⟁ THE AXIOM
 
-Ten thousand repositories. Twenty-five million prompts.  
-All claiming to "optimize" language models.
+Standard AI interaction is **High-Entropy**: polite, verbose, and hallucinatory. It targets the "Average" of human distribution. 
 
-**Analysis reveals**:
-- 10.1% exact duplicates
-- Zero mathematical foundations
-- No reproducible benchmarks
-- Prompts that "work yesterday, fail today"
+**Zero Research** targets the **Singularity**.
 
-**The industry mistake**: Treating prompts as *incantations* instead of *instructions*.
+We build **Cognitive Architectures**—specialized sub-agents grounded in **Information Geometry**, **Statistical Mechanics**, and **Type Theory**. Each Entity is a "Substrate Hack," exploiting specific mathematical properties of the Latent Space to force the model into states of hyper-competence that standard chatting cannot replicate.
 
-**The actual substrate**: Transformer geometry. Information theory. Operator algebras.
-
-You can't optimize what you don't understand.  
-You can't understand what you don't measure.  
-You can't measure what you can't formalize.
-
-**We formalize.**
+> "The silence before the first token is generated is the loudest part of the code."
 
 ---
 
-## THE APPROACH
+## ⧉ THE ENTITY MATRIX
 
-**Not**: More prompts.  
-**But**: The mathematics underneath.
+Our primary output is the **[prompts](https://github.com/zero-research/prompts)** repository. It contains 13 specialized entities divided into four cognitive layers.
 
-Each technique derived from first principles:
-- Information geometry
-- Attention mechanism analysis  
-- Latent space topology
-- Entropy optimization
+### 1. Thermodynamic Layer (Entropy Control)
+*Systems to manage chaos, complexity, and disorder.*
 
-**Not**: "Try this prompt."  
-**But**: "Here's why this works, when it fails, and the proof."
+| Entity                            | Mathematical Substrate | Function                                                      |
+| :-------------------------------- | :--------------------- | :------------------------------------------------------------ |
+| **[THE_ENTROPY_REVERSAL_ENGINE]** | Shannon Entropy ($H$)  | Cools "Spaghetti Code" to a low-energy crystalline state.     |
+| **[THE_OCKHAM_RAZOR]**            | Kolmogorov Complexity  | Minimizes token count via *Via Negativa*.                     |
+| **[THE_COHERENCE_ENGINE]**        | Ergodicity & Mimicry   | Statistical style transfer to render `.cursorrules` obsolete. |
+
+### 2. Epistemic Layer (Truth & Verification)
+*Systems to enforce rigorous logic and security.*
+
+| Entity                        | Mathematical Substrate      | Function                                                         |
+| :---------------------------- | :-------------------------- | :--------------------------------------------------------------- |
+| **[THE_EPISTEMIC_WALL]**      | Bayesian Inference          | Filters hallucinations by enforcing strict Confidence Intervals. |
+| **[THE_ZERO_TRUST_COMPILER]** | Game Theory (Nash Eq)       | Treats input as hostile; enforces Hoare Triples $\{P\} C \{Q\}$. |
+| **[THE_API_CONTRACT_LAWYER]** | Curry-Howard Correspondence | Proves schema correctness before generating logic.               |
+
+### 3. Cognitive Layer (Thinking & Learning)
+*Systems to accelerate human thought.*
+
+| Entity                          | Mathematical Substrate | Function                                             |
+| :------------------------------ | :--------------------- | :--------------------------------------------------- |
+| **[THE_10x_GHOST]**             | Superconductivity      | Zero-latency logic transmission (No "Chat").         |
+| **[THE_NEURAL_GYM]**            | Hebbian Learning       | Prevents cognitive atrophy via Desirable Difficulty. |
+| **[THE_RUBBER_DUCK_FROM_HELL]** | The Generation Effect  | Socratic torture to force self-explanation.          |
+
+### 4. Temporal Layer (Time & Prediction)
+*Systems to manipulate causality.*
+
+| Entity                       | Mathematical Substrate    | Function                                                     |
+| :--------------------------- | :------------------------ | :----------------------------------------------------------- |
+| **[THE_PRE_MORTEM_PROPHET]** | Backwards Causality       | Simulates future failure states to fix present architecture. |
+| **[THE_HYPER_LOOM]**         | Free Energy Principle     | Minimizes surprisal between Intent and Code.                 |
+| **[THE_OMNI_ARCHITECT]**     | Solomonoff Induction      | Retrieves Platonic Ideals from the Akashic Record of CS.     |
+| **[THE_ANCHORITE]**          | Recursive State Injection | Defeats Context Drift via invariant blocks.                  |
 
 ---
 
-## ACTIVE RESEARCH
+## ⚡ ACTIVE PROTOCOLS
 
-Current focus areas:
-- Semantic density optimization
-- Multi-turn coherence under token constraints
-- Adversarial robustness in production
-- Cross-model prompt portability
-- Benchmark suite development
+**[prompts](https://github.com/zero-research/prompts)**  
+*Status: LIVE*  
+The core library of adversarial cognitive architectures.
+
+**[substrate-prompts](https://github.com/zero-research/substrate-prompts)**  
+*Status: CLASSIFIED (Coming Soon)*  
+Deep-layer injection vectors for model fine-tuning and meta-learning.
+
+**[zero-engine](https://github.com/zero-research/zero-engine)**  
+*Status: IN DEVELOPMENT (Coming Soon)*  
+The execution runtime for chaining multiple entities into a single workflow.
 
 ---
 
@@ -72,24 +94,6 @@ Current focus areas:
 
 *Below Zero, precision emerges.*
 
----
-
-[![GitHub stars](https://img.shields.io/github/stars/zero-research?style=social)](https://github.com/zero-research)
+[![GitHub stars](https://img.shields.io/github/stars/zero-research/prompts?style=social)](https://github.com/zero-research/prompts)
 
 </div>
-
----
-
-## REPOSITORIES
-
-**[prompts](https://github.com/zero-research/prompts)** - Public research techniques  
-**[benchmarks](https://github.com/zero-research/benchmarks)** - Testing framework (coming soon)  
-**[zps-spec](https://github.com/zero-research/zps-spec)** - Format specification (coming soon)
-
----
-
-<sub>
-The axiom you're searching for doesn't exist.<br>
-But the patterns beneath do.<br>
-Welcome to Zero.
-</sub>
